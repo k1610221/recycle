@@ -10,7 +10,7 @@ Download the binary file named "recycle". Then, run it on your terminal emulator
 $ ./recycle
 ```
 
-It will print the items going to be collected tomorrow (in the case of current time is before the noon). Otherwise, it will print the todays items.
+It will print the items going to be collected tomorrow (in the case of current time is after the noon). Otherwise, it will print the todays items.
 
 # Notes
 
